@@ -1,0 +1,9 @@
+{
+  "name": "World Clock",
+  "description": "World clock that shows the time for every time zone and can be added to the panel.",
+  "uuid": "jordanmiracle@protonmail.com",
+  "version": "1.0",
+  "shell-version": [
+    "42"
+  ]
+}
